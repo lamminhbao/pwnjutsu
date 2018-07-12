@@ -4,7 +4,7 @@ This tool recieves a ELF file, analyzes the propagation of user's input instruct
 
 ## Usage:
 ```
-$python TAnalyzer.py -h
+$ python TAnalyzer.py -h
 usage: TAnalyzer.py [-h] [-v] [-f] [-i] [-o] filepath
 positional arguments:
   filepath       ELF file path
