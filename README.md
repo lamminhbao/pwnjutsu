@@ -1,6 +1,6 @@
 # pwnjutsu
 
-This tool recieves a ELF file, analyzes the propagation of user's input instruction by instruction to detect vulnerability.
+This tool recieves a ELF file, analyzes the propagation of user's inputby instruction to detect vulnerability.
 
 ## Usage:
 ```
